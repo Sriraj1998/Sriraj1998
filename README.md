@@ -5,8 +5,6 @@ Full-stack engineer building apps that matter.
 
 I focus on scalable systems, intelligent automation, and building products that people actually use.
 
---------------------------------------------------------------------------------------------------------
-
 ## About
 
 I work across frontend, backend, mobile, and AI systems. My approach is product-first — performance, clean architecture, and real-world usability matter more than hype.
@@ -16,8 +14,6 @@ Strong in Expo , Next.js, React (&native), Java
 Experience with MongoDB, PostgreSQL, Elasticsearch , Supabase
 
 Building AI features using RAG architectures, vector databases, and LLM integrations
-
---------------------------------------------------------------------------------------------------------
 
 ## FitNSet 🏋️
 
