@@ -1,11 +1,10 @@
-## Hi there 👋
-
-## Sriraj Nair here :)
+## Hi there 👋 , Sriraj Nair here :)
 
 Full-stack engineer building apps that matter.
-Founder of FitNSet. -> www.fitandset.com
+## Founder of FitNSet. -> www.fitandset.com
 
 I focus on scalable systems, intelligent automation, and building products that people actually use.
+--------------------------------------------------------------------------------------------------------
 
 About
 
@@ -13,12 +12,12 @@ I work across frontend, backend, mobile, and AI systems. My approach is product-
 
 ## Strong in Expo , Next.js, React (&native), Java
 
-Experience with MongoDB, PostgreSQL, Elasticsearch
+Experience with MongoDB, PostgreSQL, Elasticsearch , Supabase
 
 Building AI features using RAG architectures, vector databases, and LLM integrations
+--------------------------------------------------------------------------------------------------------
 
-
-## FitNSet
+## FitNSet 🏋️
 
 FitNSet is an AI-powered fitness platform connecting trainers and clients through structured tracking, engagement systems, and intelligent insights.
 
