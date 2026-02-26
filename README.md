@@ -1,7 +1,7 @@
 ## Hi there 👋 , Sriraj Nair here :)
 
 Full-stack engineer building apps that matter.
-## Founder of FitNSet. -> www.fitandset.com
+## Founder of FitNSet | www.fitandset.com
 
 I focus on scalable systems, intelligent automation, and building products that people actually use.
 
